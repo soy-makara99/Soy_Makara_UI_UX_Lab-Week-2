@@ -1,0 +1,19 @@
+body {
+  background: grey;
+  font-family: sans-serif;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.box {
+  background-color: white;
+  padding: 20px 20px 20px 20px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+
+.button {
+  border-radius: 30px;
+  padding: 10px 10px 10px 10px;
+  cursor: pointer;
+}
